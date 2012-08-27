@@ -1,3 +1,9 @@
+/**
+     A 'M' drawn by ellipse matrixes.
+     wang ying hsuan 26/08/2012
+     ying_hsuan52@hotmail.com
+  */
+
 size(400,400);
 background(255);
 fill(0, 75);
@@ -31,3 +37,4 @@ for (int x = 200; x <= 300; x += 5) {
   }
 }
 
+save("Font05.jpg");
